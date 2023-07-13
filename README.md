@@ -2,7 +2,7 @@
 
 This repository contains code for a fruit recognition task using a ResNet-18 model. The goal is to classify various fruits and vegetables based on their images.
 
-![Fruits Image](https://unsplash.com/photos/M_xIaxQE3Ms)
+![Fruits Image](https://images.unsplash.com/photo-1619566636858-adf3ef46400b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZnJ1aXRzfGVufDB8fDB8fHwy&auto=format&fit=crop&w=500&q=60)
 
 ## Dataset
 
