@@ -12,6 +12,42 @@ The dataset used for this task consists of a collection of fruit and vegetable i
 - Training set size: 16,854 images
 - Test set size: 5,641 images
 
+## Types of Fruits in Data
+
+- Orange
+- Tomato
+- Passion Fruit
+- Cucumber Ripe
+- Cactus fruit
+- Pomegranate
+- Plum
+- Pineapple
+- Papaya
+- Potato Red
+- Kiwi
+- Limes
+- Apple Braeburn
+- Pear
+- Onion White
+- Strawberry
+- Grape Blue
+- Blueberry
+- Apple Granny Smith
+- Apricot
+- Pepper Red
+- Clementine
+- Lemon
+- Avocado
+- Raspberry
+- Cantaloupe
+- Peach
+- Corn
+- Banana
+- Cherry
+- Pepper Green
+- Watermelon
+- Mango
+
 ## Folder Structure
 
 The folder structure of the project is as follows:
