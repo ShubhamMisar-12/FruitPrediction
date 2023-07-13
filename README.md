@@ -15,12 +15,21 @@ The dataset used for this task consists of a collection of fruit and vegetable i
 ## Folder Structure
 
 The folder structure of the project is as follows:
+
 .
 ├── Data # Folder for storing local data
+
 │ └── train.zip
+
 ├── LICENSE # License file
+
 ├── README.md # Documentation file
-├── fruit-prediction-cnn.ipynb # Jupyter Notebook with the code
+
+├── model.pkl # model file
+
+├── fruit-prediction-cnn.ipynb # Jupyter Notebook with the
+code
+
 └── requirements.txt # File listing the dependencies
 
 ## Getting Started
