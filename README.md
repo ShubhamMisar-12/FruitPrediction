@@ -17,6 +17,7 @@ The dataset used for this task consists of a collection of fruit and vegetable i
 The folder structure of the project is as follows:
 
 .
+
 ├── Data # Folder for storing local data
 
 │ └── train.zip
@@ -39,11 +40,11 @@ To get started with this project, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/fruit-recognition.git`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Download the dataset and place it in the appropriate directory (`/kaggle/input/fruit-recognition/train/train`) as mentioned in the code.
-4. Run the code: `python fruit_recognition.py`
+4. Run the code: `python fruit_recognition.ipynb`
 
 ## Code Structure
 
-- `fruit_recognition.py`: The main Python script that performs data preprocessing, model training, and evaluation.
+- `fruit_recognition.ipynb`: The main Python script that performs data preprocessing, model training, and evaluation.
 - `model.pkl`: The trained model saved in a pickle file.
 - `README.md`: The documentation file providing an overview of the project.
 
